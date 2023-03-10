@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+<fontSet>ArvoBold</fontSet>
+<backgroundUrl>images/background6.jpg</backgroundUrl>
+<crousalHeight>300</crousalHeight>
+<crousalWidth>280</crousalWidth>
+<crousalPostion>right</crousalPostion>
+<descriptionBackrounColor>#FF00sFF</descriptionBackrounColor>
+<descriptionBackrounOpacity>0.5</descriptionBackrounOpacity>
+<descriptionFontColor>#000000</descriptionFontColor> 
+<popupWidth>300</popupWidth>
+<popupHeight>200</popupHeight>
+<popupX>300</popupX>
+<popupY>200</popupY>
+<imageBorderDefaultColor>#FFFFFF</imageBorderDefaultColor>
+<imageBorderSelectedColor>#FFFF00</imageBorderSelectedColor>
+</configuration>
