@@ -3,9 +3,9 @@
 <fontSet>ArvoBold</fontSet>
 <backgroundUrl>images/background6.jpg</backgroundUrl>
 <crousalHeight>300</crousalHeight>
-<crousalWidth>280</crousalWidth>
-<crousalPostion>right</crousalPostion>
-<descriptionBackrounColor>#FF00sFF</descriptionBackrounColor>
+<crousalWidth>300</crousalWidth>
+<crousalPostion>left</crousalPostion>
+<descriptionBackrounColor>#FFFFFF</descriptionBackrounColor>
 <descriptionBackrounOpacity>0.5</descriptionBackrounOpacity>
 <descriptionFontColor>#000000</descriptionFontColor> 
 <popupWidth>300</popupWidth>
